@@ -1,0 +1,23 @@
+Source: wordtest-courses
+Priority: extra
+Maintainer: Cyril Hrubis <metan@ucw.cz>
+Build-Depends: debhelper (>= 9.0)
+Standards-Version: 4.0.0
+Section: education
+Homepage: https://github.com/gfxprim/wordtest-courses
+
+Package: wordtest-courses
+Section: education
+Architecture: all
+Depends: ${misc:Depends}, wordtest
+Description: Courses for wordtest
+ Language courses for the wordtest vocabulary test application:
+ .
+  * Gateway to the World A1+, English-Czech vocabulary for the Gateway to the
+    World A1+ textbook, split into lessons by units.
+ .
+ The Gateway to the World A1+ course is not an official course, it is not
+ affiliated with or endorsed by Macmillan Education, the publisher of the
+ Gateway to the World textbooks. The Czech translations were not taken from
+ the textbook, they were derived from the free GNU/FDL English-Czech
+ dictionary.

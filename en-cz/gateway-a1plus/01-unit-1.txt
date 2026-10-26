@@ -1,0 +1,100 @@
+# title: Unit 1
+# english;czech
+about;okolo, asi
+actor;herec
+adopted;adoptovaný
+affirmative;kladný
+age;věk
+agree;souhlasit
+American;Američan, Američanka, americký
+Argentina;Argentina
+Argentinian;argentinský
+aunt;teta
+Australia;Austrálie
+Australian;Australan, australský
+average;průměr, průměrný
+award;udělit
+bark;štěkat
+birthday;narozeniny
+Brazil;Brazílie
+Brazilian;Brazilec, brazilský
+British;Brit, britský
+brother;bratr
+century;století
+change;změnit, vyměnit, změna
+China;Čína
+Chinese;čínský, čínština, Číňan
+city;město
+clean up;uklidit
+collection;sbírka, kolekce
+conversation;konverzace, hovor, rozhovor
+cousin;bratranec, sestřenice
+daughter;dcera
+disagree;nesouhlasit
+Egypt;Egypt
+Egyptian;egyptský
+father;otec
+favourite;oblíbený
+football;fotbal, kopaná, kopací míč
+friend;přítel, přítelkyně
+German;německý, němčina
+Germany;Německo
+grandchild;vnouče
+grandfather;dědeček
+grandmother;babička
+grandparent;prarodič
+happy;šťastný, spokojený
+hobby;koníček
+husband;manžel, muž
+ideal;ideální
+interested in;zajímající se o
+in total;dohromady, celkem
+in my opinion;dle mého názoru
+interview;interview
+inventor;vynálezce
+island;ostrov, ostrůvek
+Japan;Japonsko
+Japanese;Japonec, japonský, japonština
+justify;ospravedlnit
+location;umístění
+Mexican;mexický
+Mexico;Mexiko
+million;milión
+mobile phone;mobilní telefon
+mother;matka
+musician;hudebník
+nationality;národnost
+negative;záporný, negativní
+nephew;synovec
+nickname;přezdívka
+niece;neteř
+organisation;organizace
+over;přes
+parent;rodič
+pet;domácí zvíře, miláček
+photo;fotografie
+player;hráč
+quality;kvalita
+quiz;kvíz
+role-play;hraní role
+rubbish;odpadky, smetí
+Russia;Rusko
+Russian;Rus, Ruska, ruský, ruština
+similar;podobný
+singer;zpěvák
+sister;sestra
+son;syn
+Spain;Španělsko
+Spanish;španělský, španělština
+special;speciální
+swimming;plavání
+team;tým, družstvo
+tennis;tenis
+the UK, the United Kingdom;Spojené království
+the US, the United States of America;Spojené státy, Spojené státy americké
+Turkey;Turecko
+Turkish;turecký
+uncle;strýc
+useful;užitečný
+volunteer;dobrovolník
+wife;manželka, žena

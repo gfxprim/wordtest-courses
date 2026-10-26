@@ -1,0 +1,123 @@
+# title: Unit Starter
+# english;czech
+alternative;alternativní
+answer;odpovědět, odpovídat
+April;duben
+ask;ptát se, zeptat se
+August;srpen
+bag;taška
+black;černý
+blue;modrý
+board;tabule
+board rubber;houba na tabuli
+book;kniha
+brown;hnědý
+chair;židle
+check;překontrolovat, kontrolovat, zkontrolovat
+choose;vybrat, vybrat si
+complete;doplnit
+computer;počítač
+correct;správný
+December;prosinec
+desk;psací stůl
+dialogue;dialog
+dictionary;slovník
+door;dveře
+eight;osm
+eighteen;osmnáct
+eighteenth;osmnáctý
+eighth;osmý
+eleven;jedenáct
+eleventh;jedenáctý
+February;únor
+fifteen;patnáct
+fifteenth;patnáctý
+fifth;pátý
+fiftieth;padesátý
+fifty;padesát
+first;první
+five;pět
+fortieth;čtyřicátý
+forty;čtyřicet
+four;čtyři
+fourteen;čtrnáct
+fourteenth;čtrnáctý
+fourth;čtvrtý
+Friday;pátek
+green;zelený
+grey;šedý, šedivý
+if necessary;v případě potřeby, je-li to nutné
+January;leden
+July;červenec
+June;červen
+listen;poslouchat
+look;dívat se
+March;březen
+May;květen
+Monday;pondělí
+nine;devět
+nineteen;devatenáct
+nineteenth;devatenáctý
+ninth;devátý
+notebook;zápisník, diář
+November;listopad
+object;předmět
+October;říjen
+one;jedna
+orange;oranžový
+pair;pár, dvojice
+partner;partner
+pen;pero
+pencil;tužka
+pencil sharpener;ořezávátko
+pink;růžový
+plural;množné číslo
+poster;plakát
+pronoun;zájmeno
+purple;nachový
+read;číst
+red;červený, rudý
+repeat;opakovat
+rubber;guma, pryž, gumový
+ruler;pravítko
+Saturday;sobota
+say;říci, říkat
+second;druhý
+September;září
+seven;sedm
+seventeen;sedmnáct
+seventeenth;sedmnáctý
+seventh;sedmý
+singular;jednotné číslo
+six;šest
+sixteen;šestnáct
+sixteenth;šestnáctý
+sixth;šestý
+Sunday;neděle
+take turns;střídat se
+ten;deset
+tenth;desátý
+textbook;učebnice
+third;třetí
+thirteen;třináct
+thirteenth;třináctý
+thirtieth;třicátý
+thirty;třicet
+thirty-first;třicátý první
+three;tři
+Thursday;čtvrtek
+Tuesday;úterý
+twelfth;dvanáctý
+twelve;dvanáct
+twentieth;dvacátý
+twenty;dvacet
+twenty-fifth;dvacátý pátý
+twenty-first;jednadvacátý, dvacátý první
+twenty-one;dvacet jedna
+two;dva
+Wednesday;středa
+white;bílý
+window;okno
+work;práce
+write;psát, napsat
+yellow;žlutý

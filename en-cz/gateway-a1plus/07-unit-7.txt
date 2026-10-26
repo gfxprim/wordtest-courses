@@ -1,0 +1,72 @@
+# title: Unit 7
+# english;czech
+active;aktivní
+ago;před
+athlete;atlet, sportovec
+athletics;atletika, lehká atletika
+baseball;baseball
+basketball;basketbal, košíková
+champion;přeborník
+championship;mistrovství, šampionát
+climber;lezec
+compete;soupeřit, soutěžit
+cup;šálek, hrnek
+cycling;cyklistika
+cyclist;cyklista
+debate;debatovat
+depend;záviset, záležet
+discuss;diskutovat
+driver, Formula 1 driver;řidič
+event;událost
+extreme sport;extrémní sport
+feeling;cit, pocit
+final;finále
+find out;zjistit
+football;fotbal, kopaná, kopací míč
+football player;fotbalista
+golf;golf
+gymnast;gymnasta
+gymnastics;gymnastika
+horse rider;jezdec na koni
+horse-riding;jízda na koni
+ice hockey;lední hokej
+ice hockey player;hokejista
+ice-skating;bruslení
+in common;společný
+judo;džudo
+league;liga
+mad about;zblázněný do
+marathon;maratón
+match;zápas, utkání
+medal;medaile
+motorbike rider;motorkář
+nearly;téměř, skoro
+point;ukázat, namířit
+race;závod
+referee;rozhodčí, soudce
+responsible;odpovědný, zodpovědný
+role model;vzor
+rugby;ragby
+runner;běžec
+running;běhání
+sailing;plachtění
+sailor;námořník
+score;skóre, skórovat, vstřelit gól
+Scottish;skotský
+self-discipline;sebe-disciplina
+skater;bruslař
+skier;lyžař
+skiing;lyžování
+spectator;divák
+strong;silný
+suddenly;náhle
+swimmer;plavec
+swimming;plavání
+take part;účastnit se
+team;tým, družstvo
+tennis;tenis
+tennis player;tenista, tenistka
+velodrome;velodrom
+view;výhled, pohled
+volleyball;volejbal, odbíjená
+winner;vítěz

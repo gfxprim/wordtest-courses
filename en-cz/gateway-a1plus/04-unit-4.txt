@@ -1,0 +1,92 @@
+# title: Unit 4
+# english;czech
+above;nad, nahoře, výše
+apple;jablko
+armchair;křeslo
+banana;banán
+bath;vana
+bathroom;koupelna
+bed;postel
+bedroom;ložnice
+behind;za
+biscuit;keks, sušenka
+bread;chléb
+brick;cihla
+burger;hamburger
+butter;máslo
+cake;dort, koláč
+caravan;karavan, obytný přívěs
+chair;židle
+cheese;sýr
+chicken;kuře
+chips;hranolky
+chocolate;čokoládový, čokoláda
+coffee;káva
+competition;soutěž
+connection;spojení
+cook;vařit, kuchař
+cooker;vařič, sporák
+cupboard;skříň, kredenc
+dairy;mléčný
+dining room;jídelna
+dream;sen
+egg;vejce
+fish;Ryba, ryba, ryby
+flour;mouka
+fridge;lednička
+furniture;nábytek
+garage;garáž, autoservis
+garden;zahrada
+hall;předsíň, hala
+healthy;zdravý
+honey;med
+ice cream;zmrzlina
+in;v, uvnitř
+in front of;před
+jam;džem, marmeláda
+kitchen;kuchyně
+lemonade;limonáda
+living room;obývací pokoj
+machine;stroj
+meat;maso
+messy;nepořádný, špinavý
+milk;mléko
+million;milión
+model;model, modelka
+near;blízko, nedaleko
+next to;vedle
+oil;olej
+on;na
+onion;cibule
+orange juice;pomerančový džus
+pizza;pizza
+radiator;radiátor
+ready;připravený
+real;opravdový, skutečný
+reflect;odrážet
+rule;pravidlo
+salad;salát
+salt;sůl
+shelf;police
+shower;sprcha, přeháňka
+sink;dřez
+smoothie;ovocný koktejl, smoothie
+sofa;pohovka, gauč
+strawberry;jahoda, jahodový
+study;studovat
+stuff;věc
+sugar;cukr
+sushi;suši
+table;stůl, tabulka
+tea;čaj
+tidy;uklizený, uklidit
+toilet;záchod, toaleta
+tomato;rajče
+under;pod
+unique;jedinečný
+unusual;neobvyklý
+veggie burger;vegetariánský burger
+wall;stěna, zeď
+wardrobe;šatník
+water;voda
+yoghurt;jogurt

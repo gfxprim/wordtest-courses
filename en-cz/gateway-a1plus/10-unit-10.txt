@@ -1,0 +1,55 @@
+# title: Unit 10
+# english;czech
+awesome;úžasný
+backpack;ruksak, batoh
+boat;člun, loďka
+bridge;most
+brilliant;vynikající
+bus;autobus
+car;auto, automobil
+crowded;přeplněný
+drive;řídit, jet
+earphones;sluchátka
+evaluate;hodnotit
+fantastic;fantastický, úžasný
+glove;rukavice
+guidebook;průvodce
+hat;klobouk
+helicopter;helikoptéra
+hot-air balloon;horkovzdušný balon
+it’s boiling;je strašné horko
+it’s cloudy;je zataženo, je oblačno
+it’s cold;je zima
+it’s freezing;mrzne
+it’s hot;je horko
+it’s raining;prší
+it’s snowing;sněží
+it’s stormy;je bouřlivo
+it’s sunny;je slunečno
+it’s warm;je teplo
+it’s windy;je větrno, fouká vítr
+lorry, truck;nákladní auto, náklaďák, kamion, nákladní vůz
+motorbike;motorka
+pack;balit, sbalit
+passport;pas, cestovní pas
+plane;letadlo
+positive impact;pozitivní dopad, pozitivní vliv
+suitcase;kufr, zavazadlo
+summer;léto
+sunglasses;sluneční brýle
+sunscreen;opalovací krém, opalovací mléko
+sure;jistý, jistě
+swimming trunks;plavky
+swimsuit;plavky, dámské plavky
+taxi;taxi, taxík
+theme park;zábavní park
+the Tube;metro
+too;příliš
+towel;ručník, osuška
+train;vlak
+tram;tramvaj
+transport;doprava
+umbrella;deštník, slunečník
+underground;podzemní dráha, metro
+van;dodávka
+winter;zima

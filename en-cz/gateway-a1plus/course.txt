@@ -1,0 +1,6 @@
+# This is not an official course, it is not affiliated with or endorsed by
+# Macmillan Education, the publisher of the Gateway to the World textbooks.
+#
+# The Czech translations were not taken from the textbook, they were derived
+# from the free GNU/FDL English-Czech dictionary (https://www.svobodneslovniky.cz/).
+Gateway to the World A1+

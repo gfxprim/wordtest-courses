@@ -1,0 +1,65 @@
+# title: Unit 8
+# english;czech
+advice;rada
+astronaut;kosmonaut
+badly-paid;špatně placený
+builder;stavbař
+businessman;podnikatel
+businesswoman;podnikatelka
+busy;zaneprázdněný, rušný
+calm;klidný, tichý, klid, ticho
+cheerful;veselý, radostný
+company;společnost
+congratulations;blahopřání
+creative;tvořivý, tvůrčí
+dentist;zubař, zubní lékař
+designer;návrhář, výtvarník
+dislike;nemít rád
+engineer;inženýr, technik
+experience;zážitek
+false;nepravda, nepravdivý
+foreign;zahraniční, cizí
+friendly;přátelský
+full-time;na plný úvazek
+hairdresser;kadeřník, kadeřnice
+hard-working;pracovitý
+homemade;podomácku vyrobený, domácí
+icon;ikona
+in the future;v budoucnu
+indoor;krytý
+inspiring;inspirující, inspirativní
+intelligent;inteligentní
+interest;zájem
+invention;vynález
+kind;laskavý, vlídný
+launch;spustit, odstartovat
+lazy;líný, lenivý, zahálčivý
+lucky;šťastný
+mechanic;mechanik
+motivate;motivovat
+news;zpráva, zprávy
+nurse;zdravotní sestra, ošetřovatelka
+organised;organizovaný
+outdoor;venkovní, konaný venku
+part-time;na částečný úvazek
+patient;pacient
+prize;cena, výhra
+prototype;prototyp
+quality;kvalita
+reality;skutečnost, realita
+responsible;odpovědný, zodpovědný
+shy;plachý, nesmělý, stydlivý
+skilled;kvalifikovaný, dovedný, vyučený
+space;prostor, místo
+spill;rozlít
+stimulating;podnětný, stimulující
+stressful;stresový
+success;úspěch, zdar
+teacher;učitel, učitelka
+true;pravdivý
+unskilled;nekvalifikovaný
+vet;veterinář
+waiter;číšník
+waitress;servírka
+well-paid;dobře placený
+work experience;pracovní zkušenosti, praxe

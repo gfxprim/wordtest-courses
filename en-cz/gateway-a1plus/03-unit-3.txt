@@ -1,0 +1,77 @@
+# title: Unit 3
+# english;czech
+activity;činnost, aktivita
+always;vždy, stále
+amazing;úžasný, ohromující
+boarding school;internátní škola
+book club;klub čtenářů
+brush teeth;čistit si zuby
+café;kavárna
+chat with friends;povídat si s přáteli, povídat si s kamarády
+cinema;kino
+clean my room;uklidit si pokoj
+corner;koutek, kout
+direction;řízení, směr
+do homework;udělat domácí úkoly
+do sport;sportovat
+dormitory;kolej
+draw a picture;nakreslit obrázek
+every;každý
+extra-curricular;mimoškolní
+famous;slavný, proslulý
+finish school;dokončit školu
+frequent;častý
+get up;vstát
+go home;jít domů
+go to bed;jít spát
+go to school;chodit do školy, jít do školy
+go to sleep;usnout, jít spát
+have a shower;osprchovat se
+have breakfast;snídat
+have dinner;večeřet
+have lunch;obědvat
+in common, to have in common;společný, mít společné
+inside;uvnitř, dovnitř
+instrument;nástroj
+interesting;zajímavý
+left;levý
+library;knihovna
+listen to music;poslouchat hudbu
+make food;vařit, připravovat jídlo
+make videos;natáčet videa
+medical centre;zdravotní středisko
+meet up with friends;sejít se s přáteli, setkat se s přáteli
+message;vzkaz, zpráva
+mix;míchat, smíchat
+musician;hudebník
+necessary;potřebný, nezbytný, nutný
+never;nikdy
+normal;obyčejný, normální
+often;často
+opposite;opačný, opak
+park;park, sad
+performer;účinkující
+play an instrument;hrát na hudební nástroj
+play online games;hrát online hry
+positive;pozitivní
+possible;možný
+read books;číst knihy
+restaurant;restaurace
+right;pravý, správný
+send messages;posílat zprávy
+share;sdílet
+shopping centre;nákupní středisko
+sometimes;někdy
+song;písnička
+sports centre;sportovní centrum
+start school;nastoupit do školy, začít chodit do školy
+studio;ateliér
+supermarket;supermarket
+swimming pool;bazén, koupaliště
+talented;talentovaný
+train station;nádraží, železniční stanice
+typical;typický
+usually;obvykle
+walk along;procházet se po, jít podél
+watch films;dívat se na filmy
+watch TV;dívat se na televizi

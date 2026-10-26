@@ -1,0 +1,58 @@
+# title: Unit 6
+# english;czech
+bakery;pekařství
+bank;břeh
+bookshop;knihkupectví
+boot;bota, vysoká bota
+brand;značka, obchodní značka
+butcher’s;řeznictví
+cash;hotové peníze, hotovost, inkasovat
+change;změnit, vyměnit, změna
+chemist’s;drogerie, lékárna
+choice;výběr, volba
+clothes shop;obchod s oblečením
+coat;kabát
+compare;porovnat, porovnávat
+creative;tvořivý, tvůrčí
+credit card;kreditní karta, úvěrová karta
+customer;zákazník
+department store;obchodní dům
+describe;popsat, vylíčit
+dress;oblečení
+habit;zvyk, návyk
+hoodie;mikina s kapucí
+immediately;okamžitě
+jacket;sako
+jeans;džíny, rifle
+jeweller’s;klenotnictví
+jumper;svetr
+newsagent’s;trafika
+order;nařídit, objednat
+parcel;balík
+post office;pošta
+prefer;dát přednost
+price;cena
+product;výrobek, produkt
+receipt;stvrzenka, příjmový doklad
+recycle;recyklovat
+return;vrátit se
+sale;prodej
+sandal;sandál
+sell;prodávat
+shirt;košile
+shoe shop;obchod s obuví
+shop assistant;prodavač
+shorts;kraťasy, trenýrky, šortky
+size;velikost
+skirt;sukně
+sock;ponožka
+sports shop;obchod se sportovním zbožím
+suggest;navrhnout
+supermarket;supermarket
+sweatshirt;mikina
+throw away;zahodit
+top;tričko, halenka
+trainer;trenér, cvičitel
+trousers;kalhoty
+T-shirt;tričko
+upcycle;upcyklovat

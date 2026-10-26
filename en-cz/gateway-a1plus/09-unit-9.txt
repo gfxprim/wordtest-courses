@@ -1,0 +1,77 @@
+# title: Unit 9
+# english;czech
+advantage;výhoda
+antelope;antilopa
+arm;paže, ruka
+around;kolem, okolo
+attractive;atraktivní, přitažlivý
+back;záda
+beach;pláž
+bee;včela
+beetle;brouk
+bushfire;stepní požár
+cave;jeskyně
+cheetah;gepard
+chest;hruď
+chin;brada
+cliff;útes
+climb;lézt, vylézt
+corresponding;odpovídající
+cute;roztomilý, rozkošný
+desert;poušť
+destruction;zničení, zkáza
+disadvantage;nevýhoda
+discuss;diskutovat
+dive;potápět se
+donate;přispět, darovat
+dry;suchý, sucho
+endangered;ohrožený
+environment;životní prostředí
+finger;prst
+fly;letět, létat
+foot;chodidlo
+forest;les
+frog;žába
+fur;kožešina
+habitat;habitat, lokalita, přirozené prostředí
+hand;ruka
+head;hlava
+hoof;kopyto
+horn;roh
+in favour of;pro, ve prospěch
+island;ostrov, ostrůvek
+jump;skočit, skákat
+kangaroo;klokan
+keep an open mind;být otevřený
+koala;koala
+lake;jezero
+land;přistát
+leg;noha
+lizard;ještěrka
+monkey;opice
+mountain;hora
+neck;krk, hrdlo, šíje
+ocean;oceán
+penguin;tučňák
+pollute;znečistit
+population;obyvatelstvo
+protect;chránit, ochraňovat
+rhinoceros, rhino;nosorožec
+river;řeka
+sea;moře
+shark;žralok
+snake;had
+species;druh
+stomach;žaludek, břicho
+strange;divný, podivný, zvláštní
+tail;ocas
+toe;prst
+turtle;želva
+unattractive;nehezký
+unfortunately;bohužel, naneštěstí
+unusual;neobvyklý
+valley;údolí
+venom;jed
+waterfall;vodopád
+whale;velryba
+wing;křídlo

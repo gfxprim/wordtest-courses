@@ -1,0 +1,77 @@
+# title: Unit 2
+# english;czech
+art;umění, výtvarná výchova
+assignment;úkol
+blonde;blondýna
+blue;modrý
+bring;přinést
+build;postavit, vybudovat
+calculator;kalkulačka
+catalogue;katalog
+change;změnit, vyměnit, změna
+coach;trenér, trénovat
+compare;porovnat, porovnávat
+computer science;počítačová věda
+culture;kultura
+curly;kudrnatý, vlnitý
+dark;tmavý, tma
+describe;popsat, vylíčit
+drama;divadelní hra, drama
+DT, design and technology;design a technologie
+ear;ucho
+earphones;sluchátka
+English;angličtina, anglicky
+experience;zážitek
+expert;odborník, znalec
+eye;oko
+eyebrow;obočí
+fair;světlý
+folder;složka
+formal;formální
+French;francouzština, francouzsky
+geography;zeměpis, geografie
+glasses;brýle
+green;zelený
+grey;šedý, šedivý
+guide;průvodce
+hair;vlasy
+history;dějiny, historie, dějepis
+identify;rozpoznat
+international;mezinárodní
+laptop;notebook, přenosný počítač
+light;světlo, osvětlení
+lip;ret
+long;dlouhý
+marker pen;fix, popisovač
+maths;matematika
+mouth;ústa, pusa
+music;hudba
+nose;nos
+organise;organizovat, zorganizovat
+PE, physical education;tělocvik
+pencil case;penál, pouzdro
+phone;telefon
+popular;oblíbený, populární
+possession;majetek
+presentation;prezentace
+project;plán
+quickly;rychle
+quiet;tichý, klidný
+red;červený, rudý
+rule;pravidlo
+school timetable;školní rozvrh, rozvrh hodin
+science;věda
+short;krátký, malý
+snack;svačina
+solution;řešení
+straight;rovný, přímý
+subject;předmět
+tall;vysoký
+tooth, teeth;zuby
+text;text
+thick;tlustý
+thin;hubený, tenký
+trainer;trenér, cvičitel
+travelling;cestování
+useful;užitečný
+water bottle;láhev na vodu

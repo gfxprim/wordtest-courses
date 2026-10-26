@@ -1,0 +1,57 @@
+# title: Unit 5
+# english;czech
+access;přístup
+app;aplikace
+battery;baterie
+blog;blog
+boring;nudný
+charge;účtovat, poplatek
+charger;nabíječka
+click on;kliknout na
+connect;spojit
+copy;kopírovat, opisovat
+cut and paste;vyjmout a vložit
+delete;vymazat
+desktop;desktop
+device;zařízení
+download;stáhnout
+download;stáhnout
+electricity;elektřina
+farm;farma
+huge;obrovský, obrovitý
+imagination;představivost, obrazotvornost
+keyboard;klávesnice
+landline;pevná linka
+laptop;notebook, přenosný počítač
+limited access;omezený přístup
+link;spoj, spojovat
+log off;odhlásit se
+log on;přihlásit se
+monitor;monitor
+mouse;myš
+news;zpráva, zprávy
+of course;samozřejmě
+password;heslo
+permission;dovolení, povolení
+pick up;vyzvednout
+podcast;podcast
+predict;předpovídat
+print;otisknout, vytisknout
+printer;tiskař, tiskárna
+result;výsledek
+save;zachránit, uložit
+search;hledat
+search engine;vyhledávač
+send an email;poslat e-mail
+smartphone;smartphone
+speaker;mluvčí, reproduktor
+survey;průzkum
+tablet;tabletka
+touch screen;dotyková obrazovka
+touchpad;touchpad, dotyková plocha
+unusual;neobvyklý
+virus;vir
+visitor;návštěvník
+volume key;tlačítko hlasitosti
+webcam;webová kamera
+website;internetová stránka
