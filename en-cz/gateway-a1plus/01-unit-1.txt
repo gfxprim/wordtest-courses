@@ -36,7 +36,7 @@ Egyptian;egyptský
 father;otec
 favourite;oblíbený
 football;fotbal, kopaná, kopací míč
-friend;přítel, přítelkyně
+friend;přítel, přítelkyně, kamarád, kamarádka
 German;německý, němčina
 Germany;Německo
 grandchild;vnouče
@@ -72,7 +72,7 @@ organisation;organizace
 over;přes
 parent;rodič
 pet;domácí zvíře, miláček
-photo;fotografie
+photo;fotografie, fotka
 player;hráč
 quality;kvalita
 quiz;kvíz
